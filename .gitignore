@@ -1,0 +1,14 @@
+# Python and notebook-generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and secrets
+.venv/
+venv/
+env/
+.env
+
+# Large datasets that should be downloaded separately
+fashion-mnist_train.csv
+fashion-mnist_test.csv
