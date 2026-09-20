@@ -12,3 +12,7 @@ env/
 # Large datasets that should be downloaded separately
 fashion-mnist_train.csv
 fashion-mnist_test.csv
+*.tar
+
+# Local dataset cache
+.fashion/
